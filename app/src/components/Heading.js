@@ -9,7 +9,7 @@ function Heading() {
     
     <div className="text-xl  md:text-3xl text-white p-6 bg-black bg-opacity-50 w-full flex justify-center">
       
-    Happing Shopping</div>
+    Happy Shopping</div>
             
     </div>
   </>;
